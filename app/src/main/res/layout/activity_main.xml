@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/textViewC203"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/c203_web_application_development_in_php" />
+
+    <TextView
+        android:id="@+id/textViewC206"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/c206_software_development_process" />
+
+    <TextView
+        android:id="@+id/textViewC218"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/c218_ui_ux_design_for_apps" />
+
+    <TextView
+        android:id="@+id/textViewC235"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/c235_it_security_and_management" />
+
+    <TextView
+        android:id="@+id/textViewC346"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/c346_mobile_app_development" />
+
+    <TextView
+        android:id="@+id/textViewG953"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/g953_life_skills_iii" />
+</LinearLayout>
